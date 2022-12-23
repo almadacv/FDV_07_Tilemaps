@@ -2,6 +2,7 @@
 
 1. Obtener assets que incorpores a tu proyecto para la generación del mapa: planos e isométricos.
     Assets escogidos :
+    
     <https://assetstore.unity.com/packages/2d/environments/nature-pixel-art-base-assets-free-151370>
     <https://assetstore.unity.com/packages/2d/environments/isometric-medieval-pack-209879>
 
@@ -58,7 +59,7 @@
 
         Resultado 8.2 - 8.4:
 
-        ![Tilemaps - Ejercicio 8.2 - 8.4](https://github.com/almadacv/FDV_07_Tilemaps/blob/main/Gif/Tile2_3_4.gif)
+        ![Tilemaps - Ejercicio 8.2 - 8.4](https://github.com/almadacv/FDV_07_Tilemaps/blob/main/Gif/Tile8_2_3_4.gif)
 
     5. Incluye dos capas que asignes a diferentes tipos de objetos y que permita evitar colisiones entre ellos.
         creamos una capa llamada "FallObj" y agregamos GameObjects a la capa usando el inspector.
