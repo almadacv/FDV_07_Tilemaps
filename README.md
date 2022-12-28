@@ -10,7 +10,7 @@
 
     Una paleta para el terreno del juego.
 
-    [Tilemaps - Paletas](https://github.com/almadacv/FDV_07_Tilemaps/blob/main/Gif/Tile2.png)
+    ![Tilemaps - Paletas](https://github.com/almadacv/FDV_07_Tilemaps/blob/main/Gif/Tile2.png)
 
     Otra para el ciel
 
@@ -27,7 +27,7 @@
     ![Tilemaps - Mapa Rectangular](https://github.com/almadacv/FDV_07_Tilemaps/blob/main/Gif/Tile4_6.gif)
 
 6. Seleccionar sprites para usar como decoración y sprites animados para usar como personaje y como enemigos e incorporarlos al juego.
-7. Controlar mediante scripts al menos dos transiciones de animación en el personaje y una de un enemigo.
+7. Controlar mediante scripts al menos dos transiciones de animación en el personaje y una de un enemigo.  
     Se utilizó un [Cloud Sprite](https://toppng.com/photo/222272) como Sprite decorativo, se reutilizaron las animaciones de zombis y duendes y los Sprites de ejercicios anteriores.
 
    ![Tilemaps - Ejercicio 6-7](https://github.com/almadacv/FDV_07_Tilemaps/blob/main/Gif/Tile6_7.gif)
